@@ -16,14 +16,14 @@ Ce framework a été conçu pour centraliser, simplifier et structurer tout le c
 
 ## 📚 Table des matières
 
-- [🔧 Installation](installation.md)
-- [📁 Structure du projet](structure.md)
-- [🧩 Modules principaux](modules.md)
-- [🛠 API et Exports](api.md)
-- [📡 Événements personnalisés](events.md)
-- [🚀 Exemples d’intégration](exemples.md)
-- [🤝 Contribution et standards](contribuer.md)
-- [❓ FAQ & Dépannage](faq.md)
+- [🔧 Installation](pages/installation.md)
+- [📁 Structure du projet](pages/structure.md)
+- [🧩 Modules principaux](pages/modules.md)
+- [🛠 API et Exports](pages/api.md)
+- [📡 Événements personnalisés](pages/events.md)
+- [🚀 Exemples d’intégration](pages/exemples.md)
+- [🤝 Contribution et standards](pages/contribuer.md)
+- [❓ FAQ & Dépannage](pages/faq.md)
 
 ---
 
