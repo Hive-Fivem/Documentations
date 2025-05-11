@@ -1,23 +1,34 @@
-# 🚀 Bienvenue sur la documentation de Hive
+# 🚀 Framework privé Hive - Documentation
 
-Cette documentation vous guidera dans l'installation, l'utilisation et l'intégration de notre **Framework** dans vos projets.
+Bienvenue dans la documentation officielle du framework **Hive** développé sur mesure pour notre serveur **FiveM**.  
+Ce framework a été conçu pour centraliser, simplifier et structurer tout le code serveur et client dans une logique modulaire, maintenable et extensible.
+
+---
+
+## 🎯 Objectifs du framework
+
+- Centraliser les fonctions communes pour éviter la redondance.
+- Encadrer le développement de nouveaux modules.
+- Faciliter l’onboarding de nouveaux développeurs.
+- Offrir une base fiable, performante et évolutive.
 
 ---
 
 ## 📚 Table des matières
 
-- [🔧 Installation](pages/installation.md)
-- [📁 Structure du projet](pages/structure.md)
-- [🧩 Modules principaux](pages/modules.md)
-- [🚀 Exemples d’utilisation](pages/exemples.md)
-- [🛠 API / Fonctions](pages/api.md)
-- [❓ FAQ & Dépannage](pages/faq.md)
-- [🤝 Contribuer](pages/contribuer.md)
+- [🔧 Installation](installation.md)
+- [📁 Structure du projet](structure.md)
+- [🧩 Modules principaux](modules.md)
+- [🛠 API et Exports](api.md)
+- [📡 Événements personnalisés](events.md)
+- [🚀 Exemples d’intégration](exemples.md)
+- [🤝 Contribution et standards](contribuer.md)
+- [❓ FAQ & Dépannage](faq.md)
 
 ---
 
-## 📌 À propos
+## 🤝 Rejoindre le développement
 
-Ce framework a été conçu pour [objectif du framework, ex : simplifier le développement d'applications backend pour FiveM, ou autre].
+Si tu viens de rejoindre l’équipe technique, commence par lire [la page d'installation](installation.md) et [la structure du projet](structure.md) avant de développer quoi que ce soit.
 
-N'hésitez pas à proposer des améliorations via des **Issues** ou des **Pull Requests** sur [le dépôt GitHub](https://github.com/ton-utilisateur/ton-repo).
+---
