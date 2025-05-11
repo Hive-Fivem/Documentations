@@ -10,8 +10,6 @@ Avant de commencer, assure-toi d’avoir installé :
 
 - [FiveM FXServer](https://docs.fivem.net/docs/server-manual/setting-up-a-server/)
 - [MariaDB](https://mariadb.org/) (ou un serveur MySQL compatible)
-- [Node.js (16.x ou supérieur)](https://nodejs.org/)
-- Git
 - Un éditeur de code (VSCode recommandé)
 
 ---
@@ -20,10 +18,7 @@ Avant de commencer, assure-toi d’avoir installé :
 
 Les ressources suivantes doivent être installées dans `resources/` :
 
-- [artefact](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) *Télécharger le dernier artefact en date (et non le dernier recommandé)*
-- [cfx-server-data](https://github.com/citizenfx/cfx-server-data)
 - [oxmysql](https://github.com/overextended/oxmysql/releases) *Télécharger la dernieres release*
-- [mariadb](https://mariadb.com/downloads/community/)
 - [bob74_ipl](https://github.com/DevSekai/bob74_ipl) *Télécharger mon fork, il possède certaines modifications essentiel au projet*
 ---
 
