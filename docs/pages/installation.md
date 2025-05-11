@@ -25,14 +25,14 @@ Les ressources suivantes doivent être installées dans `resources/` :
 
 ## 🧪 Installation locale
 
-1. **Demande d'accés au framework** :
+- **Demande d'accés au framework** :
 
 Ce framework étant privé et protégé, il n’est pas accessible via un dépôt GitHub public.
 Si tu fais partie de l’équipe de développement, une version te sera transmise directement sous forme d’archive (escrow) contenant tous les fichiers nécessaires à son installation.
 
 Pour toute demande d’accès ou de mise à jour, merci de contacter l’administrateur du projet.
 
-2. **server.cfg** :
+- **server.cfg** :
 
 Vous devrez organiser votre server.cfg comme ci dessous
 ```cfg
