@@ -32,6 +32,8 @@ Si tu fais partie de l’équipe de développement, une version te sera transmis
 
 Pour toute demande d’accès ou de mise à jour, merci de contacter l’administrateur du projet.
 
+---
+
 - **server.cfg** :
 
 Vous devrez organiser votre server.cfg comme ci dessous
@@ -100,3 +102,5 @@ set steam_webApiKey ""
 # License key for your server (https://portal.cfx.re)
 sv_licenseKey "YOUR_LICENSE_KEY" # Celle que vous m'aurez communiquer lors de la demande d'acces au framework
 ```
+
+---
