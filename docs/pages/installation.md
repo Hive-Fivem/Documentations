@@ -21,6 +21,7 @@ Les ressources suivantes doivent être installées dans `resources/` :
 - [oxmysql](https://github.com/overextended/oxmysql/releases) *Télécharger la dernieres release*
 - [bob74_ipl](https://github.com/DevSekai/bob74_ipl) *Télécharger mon fork, il possède certaines modifications essentiel au projet*
 
+---
 
 ## 🧪 Installation locale
 
