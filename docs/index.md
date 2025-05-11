@@ -29,6 +29,6 @@ Ce framework a été conçu pour centraliser, simplifier et structurer tout le c
 
 ## 🤝 Rejoindre le développement
 
-Si tu viens de rejoindre l’équipe technique, commence par lire [la page d'installation](installation.md) et [la structure du projet](structure.md) avant de développer quoi que ce soit.
+Si tu viens de rejoindre l’équipe technique, commence par lire [la page d'installation](pages/installation.md) et [la structure du projet](pages/structure.md) avant de développer quoi que ce soit.
 
 ---
