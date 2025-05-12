@@ -9,7 +9,7 @@ Cette page détaille toutes les étapes pour installer et exécuter localement l
 Avant de commencer, assure-toi d’avoir installé :
 
 - [FiveM FXServer](https://docs.fivem.net/docs/server-manual/setting-up-a-server/)
-- [MariaDB](https://mariadb.org/) (ou un serveur MySQL compatible)
+- [MariaDB](https://mariadb.org/)
 - Un éditeur de code (VSCode recommandé)
 
 ---
@@ -57,12 +57,13 @@ ensure rconlog
 ensure baseevents
 
 # Dependencies
-ensure [Deps] # OxMysql & Bob74ipl doivent être ensure avant le framework et ressource
+ensure [Deps] # OxMysql & Bob74ipl doivent être ensure avant le framework et vos ressource
 
 # Hive
 ensure Framework
 
 # Vos ressources
+ensure myResource
 
 # This allows players to use scripthook-based plugins such as the legacy Lambda Menu.
 # Set this to 1 to allow scripthook. Do note that this does _not_ guarantee players won't be able to use external plugins.
